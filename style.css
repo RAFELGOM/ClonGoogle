@@ -37,6 +37,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-bottom: 300px;
 }
 .cont{
     display: flex;
@@ -138,4 +139,11 @@ a{
 }
 .Atajos:hover{
     background-color: #f0ecec;
+}
+footer{
+    height: 100px;
+    width: 100%;
+}
+.xd{
+    height: 100%;
 }
